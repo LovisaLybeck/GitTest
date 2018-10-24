@@ -4,6 +4,6 @@ public class GitTestKlass {
     
     //test
     
-    //Ändring
+    //Ändring2
             
 }
